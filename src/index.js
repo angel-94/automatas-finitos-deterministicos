@@ -1,7 +1,6 @@
-import 'core-js/fn/object/assign';
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Router, Route, browserHistory, Link } from 'react-router'
+import { Router, Route, browserHistory} from 'react-router'
 import HomeAFD from './components/HomeAFD';
 import EntradasAFD from './components/EntradasAFD';
 
